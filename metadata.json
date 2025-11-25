@@ -1,0 +1,7 @@
+{
+  "name": "StyleAI - Smart Hairstyle Advisor",
+  "description": "AI-powered hairstyle analysis and virtual try-on using Gemini 2.5.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
